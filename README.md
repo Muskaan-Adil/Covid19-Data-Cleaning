@@ -57,4 +57,4 @@ The project was built to understand and address the challenges of working with r
 
 ## Report  
 For a more detailed analysis of the dataset and the steps taken during data cleaning and preprocessing, please refer to  
-👉 **[COVID19_Cleaning_Report.md](COVID19_Cleaning_Report.md)**.
+👉 **[COVID19_Cleaning_Report.md](Covid_19_EDA_Report.md)**.
