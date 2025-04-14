@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv('who-covid-19-global-data.csv')
+df = pd.read_csv('WHO_Covid19_Dataset.csv')
 
 # 1. Basic Inspection
 print("🔹 First 5 rows:")
